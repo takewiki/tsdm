@@ -10,3 +10,17 @@ Description: data models form math and statistics;from the math,we can
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.0
+Collate: 
+    'class_bill.R'
+    'class_salesOrderHead.R'
+    'FDate.R'
+    'FInterId.R'
+    'FName.R'
+    'FNumber.R'
+    'getAcctData_L1.R'
+    'getPLData.R'
+    'hello.R'
+    'huanBiCalc.R'
+    'salesOrderHead.R'
+    'salesOrderHead_Demo.R'
