@@ -1,7 +1,7 @@
 Package: tsdm
 Type: Package
 Title: data common mathmatical and statistical models in takewiki solutions
-Version: 2.0.0
+Version: 3.0.0
 Author: hulilei
 Maintainer: hulilei <hulilei@takewiki.com.cn>
 Description: data models form math and statistics;from the math,we can
